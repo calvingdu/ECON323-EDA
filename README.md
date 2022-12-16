@@ -1,4 +1,4 @@
-# ECON323-EDA
+# Finance Udemy Course EDA
 This project aims to explore what makes an Udemy course popular by a variety of different variables. My primary focus will be to analyze how the title of a course influences it's average rating and number of subscribers.
 
 How I'll be doing this is through various methods of language processing and statistical procedures to judge how influential the topic is. Though there is no "Subject" column in this database, I aim to introduce one by different manipulations of the dataset.
